@@ -1,0 +1,14 @@
+C:\Users\luisa\Documents\Docs\VSCode\cs\dotnet\brackeysbeg\bin\Debug\netcoreapp3.1\brackeysbeg.exe
+C:\Users\luisa\Documents\Docs\VSCode\cs\dotnet\brackeysbeg\bin\Debug\netcoreapp3.1\brackeysbeg.deps.json
+C:\Users\luisa\Documents\Docs\VSCode\cs\dotnet\brackeysbeg\bin\Debug\netcoreapp3.1\brackeysbeg.runtimeconfig.json
+C:\Users\luisa\Documents\Docs\VSCode\cs\dotnet\brackeysbeg\bin\Debug\netcoreapp3.1\brackeysbeg.runtimeconfig.dev.json
+C:\Users\luisa\Documents\Docs\VSCode\cs\dotnet\brackeysbeg\bin\Debug\netcoreapp3.1\brackeysbeg.dll
+C:\Users\luisa\Documents\Docs\VSCode\cs\dotnet\brackeysbeg\bin\Debug\netcoreapp3.1\brackeysbeg.pdb
+C:\Users\luisa\Documents\Docs\VSCode\cs\dotnet\brackeysbeg\obj\Debug\netcoreapp3.1\brackeysbeg.AssemblyInfoInputs.cache
+C:\Users\luisa\Documents\Docs\VSCode\cs\dotnet\brackeysbeg\obj\Debug\netcoreapp3.1\brackeysbeg.AssemblyInfo.cs
+C:\Users\luisa\Documents\Docs\VSCode\cs\dotnet\brackeysbeg\obj\Debug\netcoreapp3.1\brackeysbeg.csproj.CoreCompileInputs.cache
+C:\Users\luisa\Documents\Docs\VSCode\cs\dotnet\brackeysbeg\obj\Debug\netcoreapp3.1\brackeysbeg.dll
+C:\Users\luisa\Documents\Docs\VSCode\cs\dotnet\brackeysbeg\obj\Debug\netcoreapp3.1\brackeysbeg.pdb
+C:\Users\luisa\Documents\Docs\VSCode\cs\dotnet\brackeysbeg\obj\Debug\netcoreapp3.1\brackeysbeg.genruntimeconfig.cache
+C:\Users\luisa\Documents\Docs\VSCode\cs\dotnet\brackeysbeg\obj\Debug\netcoreapp3.1\brackeysbeg.csproj.AssemblyReference.cache
+C:\Users\luisa\Documents\Docs\VSCode\cs\dotnet\brackeysbeg\obj\Debug\netcoreapp3.1\brackeysbeg.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1607215351 source:c:\users\luisa\documents\codeblocks\cpp\p1\draft\main.cpp
+	<iostream>
+	<math.h>
+	"calcPi.h"
+
+1607215305 source:c:\users\luisa\documents\codeblocks\cpp\p1\draft\calcpi.cpp
+	"calcPi.h"
+
+1607215256 c:\users\luisa\documents\codeblocks\cpp\p1\draft\calcpi.h
+
